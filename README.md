@@ -14,9 +14,17 @@ Inspired by [awesome-hyperledger-fabric](https://github.com/wearetheledger/aweso
 
 ## Patforms
 ### Open source
+- [EdgeX Foundry](https://www.edgexfoundry.org) - The Open Platform for the IoT Edge
+
 ### Commercial
+- [Google Cloud IoT](https://cloud.google.com/solutions/iot/) - Google Cloud IoT is a complete set of tools to connect, process, store, and analyze data both at the edge and in the cloud.
+- [Microsoft IoT Edge](https://azure.microsoft.com/en-in/services/iot-edge/) - Cloud intelligence deployed locally on IoT edge devices
+- [Amazon IoT Greengrass](https://aws.amazon.com/greengrass/) - Bring local compute, messaging, data caching, sync, and ML inference capabilities to edge devices
+- [NVIDIA EGX](https://www.nvidia.com/en-us/data-center/products/egx-edge-computing/) - NVIDIA EGX Edge Computing Platform
 
 ## Hardware
+- [Google Coral Products](https://coral.withgoogle.com) - A Serie of edge devices to perform local AI
+- [NVIDIA Jetson Nano](https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/jetson-nano/) - NVIDIA Jetson Nana edge device
 
 ## Tools
 
