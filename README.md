@@ -25,3 +25,8 @@ Inspired by [awesome-hyperledger-fabric](https://github.com/wearetheledger/aweso
 ## Articles
 
 ## Community
+
+## Contribute
+
+Contributions welcome! Read the [contribution guidelines](contributing.md) first. If you found this resource helpful, give it a 🌟 otherwise [contribute](contributing.md) to it and give it a ⭐️.
+
