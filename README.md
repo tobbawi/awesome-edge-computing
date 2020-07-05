@@ -15,7 +15,7 @@ Inspired by [awesome-hyperledger-fabric](https://github.com/wearetheledger/aweso
 ## Patforms
 ### Open source
 - [EdgeX Foundry](https://www.edgexfoundry.org) - The Open Platform for the IoT Edge
-
+- [Mainflux](https://www.mainflux.com) - Open source IoT Platform Edge computing
 ### Commercial
 - [Google Cloud IoT](https://cloud.google.com/solutions/iot/) - Google Cloud IoT is a complete set of tools to connect, process, store, and analyze data both at the edge and in the cloud.
 - [Microsoft IoT Edge](https://azure.microsoft.com/en-in/services/iot-edge/) - Cloud intelligence deployed locally on IoT edge devices
